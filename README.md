@@ -1,3 +1,6 @@
 # Mohammed-Profile
 Sajjadul Mohammed Profile
-Please direct into description for profile detail
+
+Age: 23
+I am a fellow Software Developer within NorthCoders
+From Manchester
